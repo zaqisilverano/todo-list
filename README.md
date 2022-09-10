@@ -29,6 +29,14 @@ npm run ios
 yarn ios
 ```
 
+Run the unit test:
+
+```bash
+npm run test
+# or
+yarn test
+```
+
 ## Tech Stack
 
 - Bare React Native
